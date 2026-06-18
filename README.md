@@ -78,10 +78,6 @@
 - 📜 **9 Certifications** — DeepLearning.AI · IBM · Google · Udacity
 - 🚀 **12+ Production Projects** — All self-built, zero mentorship
 - 🌍 **Live Deployments** — Vercel · Render · Streamlit · globally accessible
-- 🦈 **Pull Shark x2** — Multiple meaningful pull requests
-- 🤝 **Pair Extraordinaire x2** — Pair programming contributions
-- 🤙 **YOLO** — Merged a pull request on the first try
-- 🏃 **Quickdraw** — Closed an issue or pull request within 5 minutes
 
 ---
 
