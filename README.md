@@ -14,7 +14,7 @@
 
 *Building intelligent systems — RAG · LangChain · pgvector · Django · Next.js · Docker*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hayredin-mohammed-43a128311)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hayredin-mohammed)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hayredin.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hayredin.950@gmail.com)
 
@@ -59,7 +59,7 @@
 | **[Twitter Sentiment](https://github.com/Hayredin950/twitter-sentiment-analyzer)** | NLP pipeline — Naive Bayes vs SVM | Python · Scikit-learn · TF-IDF | [🟢 Live](https://twitter-sentiment-analyzer-750.streamlit.app) |
 | **[Sales Intelligence](https://github.com/Hayredin950/Sales-Data-Analysis)** | Predictive sales analytics dashboard | Python · Pandas · Matplotlib | [🟢 Live](https://sales-data-analysis-750.streamlit.app) |
 | **[Portfolio CMS](https://hayredin.vercel.app)** | Production Headless CMS with RLS + RBAC | Next.js · Supabase · Framer Motion | [🟢 Live](https://hayredin.vercel.app) |
-| **[CollabStudy v1](https://github.com/Hayredin950/collabstudy-old)** | Real-time study platform with WebSockets | Django · Django Channels · Railway | [🟢 Live](https://collabstudy750.onrender.com) |
+| **[CollabStudy v1](https://github.com/Hayredin950/CollabStudy-v1)** | Real-time study platform with WebSockets | Django · Django Channels · Railway | [🟢 Live](https://collabstudy750.onrender.com) |
 
 ---
 
