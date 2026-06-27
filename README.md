@@ -10,7 +10,6 @@
 
 <div align="center">
 
-# HAYREDIN MOHAMMED
 ### AI Engineer · Full-Stack Developer · Machine Learning Engineer
 
 *Building intelligent systems — RAG · LangChain · pgvector · Django · Next.js · Docker*
