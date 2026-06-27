@@ -1,5 +1,15 @@
 <div align="center">
 
+<!-- PREMIUM TOP BANNER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hayredin%20Mohammed&section=header&reversal=false&textBg=false&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=60&theme=tokyonight">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hayredin%20Mohammed&section=header&reversal=false&textBg=false&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=60&theme=tokyonight" alt="Header"/>
+</picture>
+
+</div>
+
+<div align="center">
+
 # HAYREDIN MOHAMMED
 ### AI Engineer · Full-Stack Developer · Machine Learning Engineer
 
@@ -8,6 +18,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hayredin-mohammed-43a128311)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hayredin.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hayredin.950@gmail.com)
+
+<!-- TYPING ANIMATION -->
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=79FFAD&background=0D1117&center=true&vCenter=true&width=600&height=45&lines=Building+the+future+with+AI;Creating+elegant+solutions;Transforming+ideas+into+products" alt="Typing Animation"/>
+</p>
 
 </div>
 
@@ -90,8 +105,21 @@
 
 <div align="center">
 
+<!-- SKILLS BANNER -->
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nextjs,react,typescript,tailwind,postgresql,redis,docker,git,github,vercel&theme=dark&perline=7" alt="Skills"/>
+
+<br/><br/>
+
 *📍 Addis Ababa, Ethiopia — Open to remote internships & global opportunities*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hayredin950&color=0077B5&style=flat-square)
+
+<br/><br/>
+
+<!-- PREMIUM BOTTOM BANNER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&animation=twinkling&theme=tokyonight">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&animation=twinkling&theme=tokyonight" alt="Footer"/>
+</picture>
 
 </div>
