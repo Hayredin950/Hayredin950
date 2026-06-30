@@ -90,7 +90,7 @@
 
 - 🎓 **Kibur College Scholarship** — Top 10% at Addis Ababa University
 - 📜 **9 Certifications** — DeepLearning.AI · IBM · Google · Udacity
-- 🚀 **12+ Production Projects** — All self-built, zero mentorship
+- 🚀 **8+ Production Projects** — All self-built, zero mentorship
 - 🌍 **Live Deployments** — Vercel · Render · Streamlit · globally accessible
 
 ---
