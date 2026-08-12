@@ -41,7 +41,7 @@ I publish what I actually build. Repos that look thin or half-finished probably 
 | **[GitGlow](https://github.com/Hayredin950/gitglow)** | Turns an empty GitHub profile into a filled-in one using Claude AI, with a job queue and live preview | TypeScript · React · Claude AI · GitHub OAuth · Prisma · PostgreSQL · BullMQ | [Live](https://gitglow-pi.vercel.app) |
 | **[Forno](https://github.com/Hayredin950/forno)** | Pizza delivery app: custom pizza builder, order tracking, Razorpay payments, admin panel | React 19 · Vite · Express 5 · MongoDB · Mongoose · JWT · Razorpay | [Live](https://forno-ten.vercel.app) |
 | **[AddisFurnish](https://github.com/Hayredin950/addisfurnish)** | Marketplace for used furniture in Ethiopia: web + mobile apps, chat, notifications | TanStack Start · React Native/Expo · Supabase · PostgreSQL · Telegram | [Live](https://addisfurnish.vercel.app) |
-| **[CollabStudy](https://github.com/Hayredin950/CollabStudy-v1)** | Real-time study rooms with live chat | Django · Django Channels · WebSockets | [Live](https://collabstudy750.onrender.com) |
+| **[CollabStudy](https://github.com/Hayredin950/CollabStudy-v1)** | Real-time study rooms with live chat | Django · Django Channels · WebSockets | [Live](https://collabstudy-rwqj.onrender.com/) |
 | **[LifeLine](https://github.com/Hayredin950/lifeline)** | Blood donor network connecting donors, hospitals, admins | PHP · PostgreSQL | [Live](http://lifeline-blood.42web.io) |
 
 ---
