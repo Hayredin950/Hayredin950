@@ -12,58 +12,53 @@
 
 ### AI Engineer · Full-Stack Developer · Machine Learning Engineer
 
-*Building intelligent systems — RAG · LangChain · pgvector · Django · Next.js · Docker*
+*Building with RAG · LangChain · pgvector · Django · Next.js · Docker*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hayredin-mohammed)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hayredin.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hayredin.950@gmail.com)
 
-<!-- TYPING ANIMATION -->
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=79FFAD&background=0D1117&center=true&vCenter=true&width=600&height=45&lines=Building+the+future+with+AI;Creating+elegant+solutions;Transforming+ideas+into+products" alt="Typing Animation"/>
-</p>
-
 </div>
 
 ---
 
-## 🧠 What I Build
+## About
 
-- 🤖 **AI/ML Systems** — RAG pipelines, NLP engines, LangChain agents, pgvector semantic search
-- 💻 **Full-Stack Apps** — Django, FastAPI, NestJS, Next.js, React, TypeScript, PostgreSQL
-- 🛡️ **Security Tools** — OAuth risk agents, threat intelligence, MFA/TOTP, RLS
-- ⚙️ **DevOps** — Docker, GitHub Actions CI/CD, Celery/Redis, Vercel, Render
+CS student at Addis Ababa University (expected 2027) and self-taught builder. I make full-stack software — RAG-powered platforms, AI security tools, and web apps — largely by hand using free models and open-source tooling. I hold 9 certifications from DeepLearning.AI, IBM, Google, and Udacity.
+
+I publish what I actually build. Repos that look thin or half-finished probably are — I list them as they are rather than dressing them up.
 
 ---
 
-## 🚀 Flagship AI & Ecosystems
+## Projects
 
-| Project | Description | Tech Stack | Status |
+### AI & Full-Stack
+
+| Project | What it is | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[SYNAPSE](https://github.com/Hayredin950/SYNAPSE)** | AI intelligence platform — RAG, scraping, briefings | Django · FastAPI · LangChain · pgvector | [🟢 Live](https://synapse-app-six.vercel.app) |
-| **[CollabStudy v2](https://github.com/Hayredin950/CollabStudy)** | AI-powered real-time academic collaboration | NestJS · Next.js · FastAPI · pgvector | [🟢 Live](https://collab-study-web.vercel.app) |
-| **[Lumina Studio](https://github.com/Hayredin950/Lumina)** | AI-Integrated Workspace for Modern Developers | Next.js 15 · AI Agents · Prisma · SQLite | [🟢 Alpha](https://github.com/Hayredin950/Lumina) |
-| **[USHOP-Global](https://github.com/Hayredin950/USHOP-Global)** | Premium E-commerce Architecture (RedStore Enterprise) | Next.js 15 · Tailwind · Stripe · Firebase | [🟢 Production](https://github.com/Hayredin950/USHOP-Global) |
-| **[EduPulse](https://github.com/Hayredin950/EduPulse)** | Enterprise Academic Intelligence & Sentiment Engine | React 19 · Firebase AI · 4-Tier RBAC | [🟢 Production](https://github.com/Hayredin950/EduPulse) |
-| **[NexusCloud](https://github.com/Hayredin950/NexusCloud)** | High-Performance Browser-Based IDE Engine | Monaco Editor · Next.js · Vite · Zustand | [🟢 Beta](https://github.com/Hayredin950/NexusCloud) |
+| **[SYNAPSE](https://github.com/Hayredin950/SYNAPSE)** | AI intelligence platform: scrapes tech news and papers, summarizes via NLP, answers questions with RAG chat | Django · FastAPI · Next.js · PostgreSQL+pgvector · Redis · Celery · Docker | [Live](https://synapse-one-blond.vercel.app) |
+| **[OAuthSentry](https://github.com/Hayredin950/oauthsentry)** | Scheduled scans of OAuth apps / AI integrations / npm deps against threat feeds, with risk scoring and Linear/Slack alerts | Next.js · TypeScript · Vercel AI SDK · Upstash Redis | [Live](https://oauthsentry.vercel.app) |
+| **[GitGlow](https://github.com/Hayredin950/gitglow)** | Turns an empty GitHub profile into a filled-in one using Claude AI, with a job queue and live preview | TypeScript · React · Claude AI · GitHub OAuth · Prisma · PostgreSQL · BullMQ | [Live](https://gitglow-pi.vercel.app) |
+| **[Forno](https://github.com/Hayredin950/forno)** | Pizza delivery app: custom pizza builder, order tracking, Razorpay payments, admin panel | React 19 · Vite · Express 5 · MongoDB · Mongoose · JWT · Razorpay | [Live](https://forno-ten.vercel.app) |
+| **[AddisFurnish](https://github.com/Hayredin950/addisfurnish)** | Marketplace for used furniture in Ethiopia: web + mobile apps, chat, notifications | TanStack Start · React Native/Expo · Supabase · PostgreSQL · Telegram | [Live](https://addisfurnish.vercel.app) |
+| **[EduPulse](https://github.com/Hayredin950/EduPulse)** | Education analytics / engagement dashboard | React · Firebase | — |
+| **[NexusCloud](https://github.com/Hayredin950/NexusCloud)** | In-browser code editor | Next.js · Monaco Editor · Vite · Zustand | Beta |
+| **[CollabStudy](https://github.com/Hayredin950/CollabStudy-v1)** | Real-time study rooms with live chat | Django · Django Channels · WebSockets | [Live](https://collabstudy750.onrender.com) |
+| **[ZenVault](https://github.com/Hayredin950/ZenVault)** | Desktop banking & vault app | Java 17 · MySQL · Swing | — |
+| **[LifeLine](https://github.com/Hayredin950/lifeline)** | Blood donor network connecting donors, hospitals, admins | PHP · PostgreSQL | — |
+
+### Smaller / learning
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[Twitter Sentiment](https://github.com/Hayredin950/twitter-sentiment-analyzer)** | NLP sentiment classification (Naive Bayes / SVM) | Python · scikit-learn · Streamlit |
+| **[Sales Data](https://github.com/Hayredin950/Sales-Data-Analysis)** | Analytics dashboards | Python · Pandas · Matplotlib |
+| **[Labyrinth-OS](https://github.com/Hayredin950/Labyrinth-OS)** | Maze generation & pathfinding visualizer | Python |
+| **[ZipCore](https://github.com/Hayredin950/ZipCore)** | Huffman compression library | Python |
 
 ---
 
-## 🛠️ Specialist Tools & Intelligence
-
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **[OAuthSentry](https://github.com/Hayredin950/oauthsentry)** | AI security agent — OAuth & npm threat scanning | Next.js · TypeScript · Vercel AI SDK | [🟢 Live](https://oauthsentry.vercel.app) |
-| **[ZenVault](https://github.com/Hayredin950/ZenVault)** | Secure Java-Based Enterprise Banking System | Java 17 · MySQL · Swing · Maven | [🟢 Stable](https://github.com/Hayredin950/ZenVault) |
-| **[Labyrinth-OS](https://github.com/Hayredin950/Labyrinth-OS)** | Advanced Maze Generation & Pathfinding Visualizer | Python · Algorithms · DS · Visualization | [🟢 Complete](https://github.com/Hayredin950/Labyrinth-OS) |
-| **[Twitter Sentiment](https://github.com/Hayredin950/twitter-sentiment-analyzer)** | NLP pipeline — Naive Bayes vs SVM | Python · Scikit-learn · TF-IDF | [🟢 Live](https://twitter-sentiment-analyzer-750.streamlit.app) |
-| **[Sales Intelligence](https://github.com/Hayredin950/Sales-Data-Analysis)** | Predictive sales analytics dashboard | Python · Pandas · Matplotlib | [🟢 Live](https://sales-data-analysis-750.streamlit.app) |
-| **[Portfolio CMS](https://hayredin.vercel.app)** | Production Headless CMS with RLS + RBAC | Next.js · Supabase · Framer Motion | [🟢 Live](https://hayredin.vercel.app) |
-| **[CollabStudy v1](https://github.com/Hayredin950/CollabStudy-v1)** | Real-time study platform with WebSockets | Django · Django Channels · Railway | [🟢 Live](https://collabstudy750.onrender.com) |
-
----
-
-## 📊 Real-Time Engineering Metrics
+## 📊 Stats
 
 <div align="center">
 
@@ -86,19 +81,15 @@
 
 ---
 
-## 🏆 Achievements
+## Achievements & Focus
 
-- 🎓 **Kibur College Scholarship** — Top 10% at Addis Ababa University
+- 🎓 **Kibur College Scholarship** — Addis Ababa University
 - 📜 **9 Certifications** — DeepLearning.AI · IBM · Google · Udacity
-- 🚀 **8+ Production Projects** — All self-built, zero mentorship
-- 🌍 **Live Deployments** — Vercel · Render · Streamlit · globally accessible
+- 🌍 **Live Deployments** — Vercel · Render · Streamlit
 
----
-
-## 🔭 Currently Working On
-
-> **SYNAPSE** — Scaling multi-agent fleets for autonomous technology research
-> **AcademicPulse** — Deploying enterprise feedback intelligence at Addis Ababa University
+**Currently working on:**
+> **SYNAPSE** — scaling multi-agent fleets for autonomous technology research
+> **AcademicPulse** — enterprise feedback intelligence at Addis Ababa University
 
 ---
 
@@ -112,8 +103,6 @@
 *📍 Addis Ababa, Ethiopia — Open to remote internships & global opportunities*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hayredin950&color=0077B5&style=flat-square)
-
-<br/><br/>
 
 <!-- PREMIUM BOTTOM BANNER -->
 <picture>
