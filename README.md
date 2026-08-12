@@ -61,11 +61,9 @@ I publish what I actually build. Repos that look thin or half-finished probably 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hayredin950&theme=tokyonight" height="175" alt="Stats"/>
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hayredin950&theme=tokyonight" height="175" alt="Top Languages"/>
-
-  <br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Hayredin950&theme=tokyonight&background=0d1117&fire=79ffad&ring=79ffad&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="175" alt="GitHub Streak"/>
 </div>
+
+
 
 ---
 
